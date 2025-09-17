@@ -75,14 +75,11 @@ Este repositório documenta minha jornada completa de aprendizado e prática com
     /
     ├── 📄 README.md (este arquivo)
     ├── 📁 images/
-         ├── 🖼️ configuracao-language-service.png
          ├── 🖼️ analise-sentimento-resultados.png
-         ├── 🖼️ speech-studio-interface.png
-         ├── 🖼️ bot-service-configuracao.png
-         └── 🖼️ selecao-idiomas.png
-   
-
-
+         ├── 🖼️ configuracao-language-service.png
+         ├── 🖼️ languagem-studio-welcome.png
+         ├── 🖼️ selecao-idiomas.png
+         └── 🖼️ speech-studio-interface.png
 
 
 ### 🙌 Conclusão
