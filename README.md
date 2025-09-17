@@ -56,7 +56,7 @@ Este repositório documenta minha jornada completa de aprendizado e prática com
 **Arquivo**: WhatAICanDo.m4a (18 segundos)
 
 **Transcrição**:
-"AI enables us to build amazing software that can improve healthcare, enable people to overcome physical disadvantages, empower smart infrastructure"
+"AI enables us to build amazing software that can improve healthcare, enable people to overcome physical disadvantages, empower smart infrastructure, create incredible entertainment experiences, and even save the planet."
 
 ### 🔍 Evidências de Aprendizado
 #### 📸 Capturas de Tela Incluídas:
