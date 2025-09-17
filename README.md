@@ -1,7 +1,7 @@
 # Desafio do Bootcamp Suzano Python Developer
 ## Resumo "Análise de Sentimentos com Language Studio no Azure AI".
 ### 📋 Visão Geral do Desafio
-Este repositório documenta minha jornada completa de aprendizado e prática com os serviços de IA da Azure, focando especificamente no **Azure Speech Studio e Language Studio**. Através de exploração hands-on, pude compreender profundamente as capacidades de processamento de linguagem natural, análise de sentimentos, reconhecimento de fala e criação de sistemas de perguntas e respostas.
+Este repositório documenta minha jornada completa de aprendizado e prática com os serviços de IA da Azure, focando especificamente no **Azure Speech Studio e Language Studio**. Através do laboratório, pude compreender profundamente as capacidades de processamento de linguagem natural, análise de sentimentos, reconhecimento de fala e criação de sistemas de perguntas e respostas.
 ### 🎯 Objetivos Alcançados
 #### ✅ Análise de Texto com Language Studio
 - Análise de Sentimento: Avaliação de polaridade (positivo/negativo) com pontuação de confiança
